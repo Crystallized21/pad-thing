@@ -8,6 +8,7 @@ Also I wanted to learn something new and get some hardware skills in, so this is
 
 ## BOM
 - XIAO RP2040
+- 12x 1N4148 Diodes
 - 0.91 inch OLED Display
 - 12x SK6812 RGB LEDs for each key.
 - 12x Cherry MX Switches
